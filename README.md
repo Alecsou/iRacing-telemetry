@@ -1,2 +1,2 @@
 # iRacing-telemetry
-Open-sourced iRacing telemetry tool using pyirsdk
+Open-source iRacing telemetry tool using pyirsdk
